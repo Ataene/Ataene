@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ataene - Startup Enthusiast
 - 👀 I’m interested in full stack Web and Mobile Developments
 - 🌱 I’m currently learning Machine Learning and AI
-- 💞️ I’m looking to collaborate on Fintech, Blockchain, and startup technologies.
+- 💞️ I’m looking to collaborate on Fintech, Blockchain, and Startup Technologies.
 - 📫 How to reach me https://alafonyek.web.app/
 
 <!---
