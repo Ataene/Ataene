@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ataene - Startup Enthusiast
+- 👋 Hi, I’m @Ataene - Tech Enthusiast
 - 👀 I’m interested in full stack Web and Mobile Developments
 - 🌱 I’m currently learning Machine Learning and AI
 - 💞️ I’m looking to collaborate on Fintech, Blockchain, and Startup Technologies.
