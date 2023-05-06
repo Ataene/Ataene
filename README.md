@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ataene - Tech Enthusiast
-- 👀 I’m interested in full stack Web and Mobile Developments
+- 👋 Hi, I’m @Ataene - Software Engineer and MBA
+- 👀 I’m a full stack Web and Mobile Developer
 - 🌱 I’m currently learning Machine Learning and AI
 - 💞️ I’m looking to collaborate on Fintech, Blockchain, and Startup Technologies.
 - 📫 How to reach me https://alafonyek.web.app/
