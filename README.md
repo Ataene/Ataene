@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ataene - Software Engineer and MBA
-- 👀 I’m a full stack Web and Mobile Developer
-- 💞️ I’m looking to collaborate on Fintech, Blockchain, and Startup Technologies.
+- 👋 Hi, I’m @Ataene - Software/Systems Engineer, MBA
+- 👀 I’m a full stack software and Mobile Developer
+- 💞️ I’m looking to collaborate
 
 <!---
 Ataene/Ataene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
