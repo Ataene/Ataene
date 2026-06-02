@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ataene - Software/Systems Engineer, MBA
-- 👀 I’m a full stack software and Mobile Developer
+- 👀 I’m a full-stack software and Mobile Developer
 - 💞️ I’m looking to collaborate
 
 <!---
